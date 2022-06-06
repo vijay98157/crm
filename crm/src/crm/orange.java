@@ -4,6 +4,7 @@ public class orange {
 
 	public static void name() {
 		System.out.println("vijay");
+		System.out.println("kumar");
 	}
 
 }
